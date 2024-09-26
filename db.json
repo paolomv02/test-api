@@ -1,0 +1,28 @@
+{
+    "vehicles": [
+        {
+            "id": 1,
+            "marca": "McLaren Angga",
+            "modelo": "Supercar",
+            "color": "Yellow",
+            "placa": "ABC123",
+            "imagen": "https://i.pinimg.com/originals/02/aa/09/02aa0984b7f864e78ac126908a083703.jpg"
+        },
+        {
+            "id": 2,
+            "marca": "BMW Mayuko",
+            "modelo": "Sport",
+            "color": "Yellow",
+            "placa": "ABC123",
+            "imagen": "https://www.bmw.com.pe/content/dam/bmw/common/all-models/m-series/series-overview/bmw-m-series-seo-overview-ms-04.jpg"
+        }
+        ,{
+            "id": 3,
+            "marca": "McLaren Angga",
+            "modelo": "Supercar",
+            "color": "Yellow",
+            "placa": "ABC123",
+            "imagen": "https://i.pinimg.com/originals/02/aa/09/02aa0984b7f864e78ac126908a083703.jpg"
+        }
+    ]
+}
